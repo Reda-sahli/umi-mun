@@ -48,6 +48,22 @@ export default function HeroSlider() {
       alt: "UMI-MUN Event",
     },
     {
+      image: "/MUNFSM.jpg?height=800&width=1600",
+      alt: "UMI-MUN Workshop",
+    },
+    {
+      image: "/drari.png?height=800&width=1600",
+      alt: "UMI-MUN Workshop",
+    },
+    {
+      image: "/drari.png?height=800&width=1600",
+      alt: "UMI-MUN Workshop",
+    },
+    {
+      image: "/drari.png?height=800&width=1600",
+      alt: "UMI-MUN Workshop",
+    },
+    {
       image: "/drari.png?height=800&width=1600",
       alt: "UMI-MUN Workshop",
     },
