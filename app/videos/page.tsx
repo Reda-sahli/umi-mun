@@ -46,33 +46,37 @@ export default function VideosPage() {
       language: "en",
     },
  
-
-
-
+    {
+      id: "video6",
+      title: "MUN Terminology Explained: Master Key Terms for Your First Conference!",
+      description: "Today, we’ll learn how to draft a MUN Resolution (Resolution Paper)—the most important document in Model UN simulations that turns your ideas into actionable solutions.",
+      embedId: "jpydwCU0jG4", 
+      language: "en",
+    },
     
     {
-      id: "video8",
-      title: "Introduction au MUN : Le Guide Complet pour Débutants",
-      description: "Découvrez le Modèle des Nations Unies (MUN) dans cette première vidéo de notre série éducative !",
+      id: "video7",
+      title: "Rédiger un Position Paper Gagnant - Le Guide Complet",
+      description: "Aujourd'hui, nous allons vous apprendre à rédiger un Position Paper convaincant qui impressionnera les chairs et vos collègues délégués.",
       embedId: "98hDeuHgIhE", // Example YouTube ID
       language: "fr",
     },
     {
-      id: "video9",
+      id: "video8",
       title: "Règles de Procédure MUN - Le Guide Ultime pour les Débutants",
       description: "Découvrez dans ce quatrième épisode les règles essentielles qui régissent les simulations MUN, présenté par votre équipe MUN UMI ! Apprenez à naviguer comme un pro dans les débats diplomatiques.",
       embedId: "qjQ5aT6a5BI", // Example YouTube ID
       language: "fr",
     },
     {
-      id: "video10",
+      id: "video9",
       title: "Déroulement des débats MUN - Le Guide Complet du Débutant à l'Expert",
       description: "Dans cette vidéo, nous allons décortiquer le déroulement type d'un débat MUN, de l'ouverture de la session jusqu'au vote final, avec des conseils pratiques pour exceller en tant que délégué.",
       embedId: "vCEMCi2NUdI", // Example YouTube ID
       language: "fr",
     },
     {
-      id: "video11",
+      id: "video10",
       title: "Lexique MUN : Termes Clés à Maîtriser",
       description: "Aujourd'hui, on décrypte ensemble les termes clés à connaître absolument pour vos premières simulations.",
       embedId: "Z0HhaoCWbLA", // Example YouTube ID
@@ -80,51 +84,63 @@ export default function VideosPage() {
     },
  
     {
-      id: "video7",
+      id: "video11",
       title: "Rédiger une Résolution MUN Parfaite - Guide Complet.",
       description: "Aujourd'hui, nous allons apprendre ensemble à rédiger une Résolution MUN (Resolution Paper), le document le plus important d'une simulation des Nations Unies, qui transforme vos idées en solutions concrètes..",
       embedId: "mFiecJ5S94I", 
       language: "fr",
     },
     {
-      id: "vide13",
-      title: "Rédiger un Position Paper Gagnant - Le Guide Complet",
-      description: "Aujourd'hui, nous allons vous apprendre à rédiger un Position Paper convaincant qui impressionnera les chairs et vos collègues délégués..",
-      embedId: "98hDeuHgIhE", 
+      id: "video12",
+      title: "Introduction au MUN : Le Guide Complet pour Débutants.",
+      description: "Découvrez le Modèle des Nations Unies (MUN) dans cette première vidéo de notre série éducative ! ",
+      embedId: "X7ckc_y4Jwk", 
       language: "fr",
     },
+ 
+
+
+
     {
-      id: "vide14",
+      id: "vide13",
       title: "تعريف MUN : منظمة الأمم المتحدة النموذجية – دليلك الأول!",
       description: "أهلاً بكم في الحلقة الأولى من سلسلتنا التعليمية حول MUN (منظمة الأمم المتحدة النموذجية)!.",
       embedId: "HItiVnCU_mQ", 
       language: "ar",
     },
     {
-      id: "vide15",
+      id: "vide14",
       title: "مصطلحات MUN الأساسية – دليلك الشامل للمبتدئين!",
       description: "ورشة عمل حول مهارات الخطابة والإقناع في نموذج الأمم المتحدة.",
       embedId: "RAi2BfstFUE", 
       language: "ar",
     },
     {
-      id: "vide16",
+      id: "vide15",
       title: "قواعد MUN الرسمية - كيف تتفوق في المحاكاة الدبلوماسية؟",
       description: "مرحبًا بكم في الحلقة الرابعة من سلسلة MUN UMI التعليمية! في هذا الفيديو، سنكشف لكم أسرار قواعد وإجراءات نموذج الأمم المتحدة التي تميز المندوب المحترف عن المبتدئ.",
       embedId: "I9ieWHE7HzM", // Example YouTube ID
       language: "ar",
     },
     {
-      id: "vide17",
+      id: "vide16",
       title: "مهارات الخطابة والإقناع",
       description: "في هذا الفيديو، سنتعلم معًا كيفية كتابة ورقة الموقف (Position Paper)، المستند الأساسي الذي يعكس موقف الدولة التي تمثلها في نموذج الأمم المتحدة.",
       embedId: "5kCTMwJKSgI", 
       language: "ar",
     },
+ 
+    {
+      id: "vide17",
+      title: "كيف تكتب ورقة قرار (Resolution Paper) ناجحة في MUN؟ - دليل عملي",
+      description: "في هذا الفيديو، سنتعلم معًا كيفية كتابة ورقة القرار (Resolution Paper)، الوثيقة الأكثر أهمية في نموذج الأمم المتحدة التي تحول أفكاركم إلى حلول عملية.",
+      embedId: "bk1GNy_TUvM", // Example YouTube ID
+      language: "ar",
+    }, 
     {
       id: "vide18",
-      title: "كيفية إدارة النقاش في MUN – دليل خطوة بخطوة!",
-      description: "مرحبًا بكم في الحلقة الثالثة من سلسلة MUN بالعربية من فريق MUN UMI! 🎤 في هذا الفيديو، سنشرح كيفية سير النقاش في نموذج الأمم المتحدة (MUN)، من بداية الجلسة حتى التصويت النهائي، مع نصائح عملية لتحقيق النجاح كمندوب",
+      title:  "كيفية إدارة النقاش في MUN – دليل خطوة بخطوة!",
+  description: "   في هذا الفيديو، سنشرح كيفية سير النقاش في نموذج الأمم المتحدة (MUN)، من بداية الجلسة حتى التصويت النهائي، مع نصائح عملية لتحقيق النجاح كمندوب.  ",
       embedId: "61QSkNpsdY0", // Example YouTube ID
       language: "ar",
     }, 
