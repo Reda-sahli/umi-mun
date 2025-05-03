@@ -34,7 +34,7 @@ export default function PartnersPage() {
     },
     {
       name: "IVR CLUB FSM",
-      logo: "/about-image2.png?height=200&width=200",
+      logo: "/ivrrrr.png?height=200&width=200",
       description: "IVR CLUB FSM | Innovation Visionnary Robotic Club.",
       website: "https://ivrclubfs.com/",
     },
