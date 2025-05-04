@@ -14,7 +14,7 @@ const inter = Inter({ subsets: ["latin"] })
 export const metadata: Metadata = {
   title: "UMI-MUN | Model United Nations – Moulay Ismail University",
   description: "Experience Diplomacy. Shape the Future. Join UMI-MUN.",
-  generator: 'Sahli reda ',
+  generator: 'Sahli Reda ',
   icons: {
     icon: [
       { url: '/mun.png', sizes: 'any' },

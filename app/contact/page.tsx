@@ -216,7 +216,7 @@ export default function ContactPage() {
                   <h3 className="font-medium mb-3">Map</h3>
                   <div className="aspect-video w-full rounded-md overflow-hidden">
                     <iframe
-                      src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3311.6592830456224!2d-5.538400!3d33.890500!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xda044e2951b3789%3A0x44a7e2e3bd6228d9!2sUniversit%C3%A9%20Moulay%20Ismail%2C%20Mekn%C3%A8s!5e0!3m2!1sen!2sma!4v1714669100000!5m2!1sen!2sma"
+                      src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d5099.262317712109!2d-5.5769708!3d33.8580589!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xda05aa58f684fa5%3A0xf0fb1148b3d459d!2sUniversit%C3%A9%20Moulay%20Ismail%20-%20Pr%C3%A9sidence!5e1!3m2!1sfr!2sma!4v1746361803989!5m2!1sfr!2sma"
                       width="100%"
                       height="300"
                       style={{ border: 0 }}
