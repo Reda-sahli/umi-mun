@@ -67,7 +67,7 @@ const translations = {
     "contact.info.social": "Follow Us",
 
     // Footer
-    "footer.rights": "© 2025 UMI-MUN. All rights reserved To Sahli Reda.",
+    "footer.rights": "© 2025 UMI-MUN. All rights reserved By Sahli Reda.",
     "footer.location": "Location",
     "footer.address": "Moulay Ismail University, Marjane 2, BP 298, Meknes, Morocco",
     "footer.viewMap": "View on Map",
