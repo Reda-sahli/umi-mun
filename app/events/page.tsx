@@ -17,7 +17,7 @@ export default function EventsPage() {
       time: "9:00 AM - 6:00 PM",
       description:
         "Les 16 & 17 mai , l’Université Moulay Ismaïl accueille la UMI-MUN Conference 2025 , une plateforme unique où étudiants, jeunes leaders et passionnés de relations internationales se rencontrent pour explorer les grands enjeux mondiaux.",
-      image: "/v2.png?height=400&width=600",
+      image: "/V2.png?height=400&width=600",
       registrationLink: "https://forms.gle/9HyXTQUUep4JYS1W9 ",
     },
    
