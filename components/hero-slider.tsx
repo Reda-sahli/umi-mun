@@ -44,7 +44,7 @@ export default function HeroSlider() {
       alt: "UMI-MUN Delegates",
     },
     {
-      image: "/MUN - mai.png?height=800&width=1600",
+      image: "/MUN - mai1.png?height=800&width=1600",
       alt: "UMI-MUN Event",
     },
     {
