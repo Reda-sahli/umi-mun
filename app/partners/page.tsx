@@ -45,6 +45,13 @@ export default function PartnersPage() {
         "Le Club Photography FSM vous ouvre ses portes pour explorer l’art de la photographie, du cadrage parfait à la retouche professionnelle !.",
       website: "https://www.instagram.com/photographyfsm.pro/",
     },
+    {
+      name: "A.U.R.A",
+      logo: "/ora.png?height=200&width=200",
+      description:
+        "A.U.R.A is the Public Speaking and Debating Club at ENS Meknès. We help students build confidence, think critically, and grow as eloquent arguers .",
+      website: "https://www.instagram.com/aura_ens_meknes/",
+    },
   ]
 
   return (
