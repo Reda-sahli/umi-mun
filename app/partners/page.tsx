@@ -9,6 +9,12 @@ export default function PartnersPage() {
 
   const partners = [
     {
+      name: "Moulay Ismail University",
+      logo: "/UMI.png?height=200&width=200",
+      description: " l'Université moulay Ismaïl in Meknes, Morocco.",
+      website: "https://www.umi.ac.ma",
+    },
+    {
       name: "United Nations",
       logo: "/un-logo.png?height=200&width=200",
       description: "Global international organization promoting peace and cooperation.",
@@ -20,12 +26,7 @@ export default function PartnersPage() {
       description: "European Center for Leadership, Entrepreneurship and Education.",
       website: "https://eclee.eu/",
     },
-    {
-      name: "Moulay Ismail University",
-      logo: "/UMI.png?height=200&width=200",
-      description: " l'Université moulay Ismaïl in Meknes, Morocco.",
-      website: "https://www.umi.ac.ma",
-    },
+   
     {
       name: "Jagora University is a Cameroonian ",
       logo: "/jagoraLogo.png?height=200&width=200",
