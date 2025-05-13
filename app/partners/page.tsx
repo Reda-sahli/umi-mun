@@ -44,7 +44,7 @@ export default function PartnersPage() {
       logo: "/photograpy.png?height=200&width=200",
       description:
         "Le Club Photography FSM vous ouvre ses portes pour explorer l’art de la photographie, du cadrage parfait à la retouche professionnelle !.",
-      website: "https://www.instagram.com/photographyfsm.pro/",
+      website: "https://www.photographyfsm.online/",
     },
     {
       name: "A.U.R.A",
