@@ -69,7 +69,6 @@ export default function HeroSlider() {
       alt: "UMI-MUN Workshop",
     },
   ]
-
   if (!mounted) {
     return null
   }
