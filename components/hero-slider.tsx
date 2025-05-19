@@ -34,21 +34,22 @@ export default function HeroSlider() {
     setMounted(true)
   }, [])
 
+ 
   const slides = [
     {
-      image: "/IMG_3524.JPG?height=800&width=1600",
+      image: "/IMG_0968.JPG?height=800&width=1600",
       alt: "UMI-MUN Conference",
     },
     {
-      image: "/MUN cart.png?height=800&width=1600",
+      image: "/IMG_0468.JPG?height=800&width=1600",
       alt: "UMI-MUN Delegates",
     },
     {
-      image: "/MUN - mai1.png?height=800&width=1600",
+      image: "/IMG-20250516-WA0073.jpg?height=800&width=1600",
       alt: "UMI-MUN Event",
     },
     {
-      image: "/MUNFSM.jpg?height=800&width=1600",
+      image: "/IMG_0806.jpg?height=800&width=1600",
       alt: "UMI-MUN Workshop",
     },
     {
@@ -56,7 +57,7 @@ export default function HeroSlider() {
       alt: "UMI-MUN Workshop",
     },
     {
-      image: "/IMG_5225.JPG?height=800&width=1600",
+      image: "/IMG_0095.jpg?height=800&width=1600",
       alt: "UMI-MUN Workshop",
     },
     {
@@ -64,7 +65,7 @@ export default function HeroSlider() {
       alt: "UMI-MUN Workshop",
     },
     {
-      image: "/MUN photo.png?height=800&width=1600",
+      image: "/IMG_0211.jpg?height=800&width=1600",
       alt: "UMI-MUN Workshop",
     },
   ]
